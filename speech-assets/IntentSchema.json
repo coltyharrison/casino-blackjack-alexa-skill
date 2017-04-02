@@ -1,0 +1,43 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "bet",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "DealRequest"
+    },
+    {
+      "slots": [
+        {
+          "name": "action",
+          "type": "LIST_OF_ACTIONS"
+        }
+      ],
+      "intent": "ActionIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "response",
+          "type": "LIST_OF_RESPONSES"
+        }
+      ],
+      "intent": "PlayAgainIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "NewSession"
+    }
+  ]
+}

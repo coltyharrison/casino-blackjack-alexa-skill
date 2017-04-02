@@ -1,0 +1,8 @@
+DealRequest {bet}
+DealRequest {bet} dollars
+DealRequest {bet} coins
+ActionIntent {action}
+PlayAgainIntent {response}
+NewSession start casino blackjack
+NewSession open casino blackjack
+NewSession begin casino blackjack

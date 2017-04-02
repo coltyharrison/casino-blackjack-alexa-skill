@@ -1,0 +1,4 @@
+hit
+stay
+stand
+double down
