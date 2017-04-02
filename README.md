@@ -11,9 +11,9 @@ Alexa begin casino blackjack
 ```
 
 ### Built With
-• Node.js 6.10.0
-• AWS Lambda
-• DynamoDB
+• Node.js 6.10.0<br>
+• AWS Lambda<br>
+• DynamoDB<br>
 • <a href="https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs">alexa-sdk</a>
 
 Available to enable on your Echo device through Amazon:<br>
